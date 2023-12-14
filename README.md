@@ -9,6 +9,15 @@ Mi Plugin es un plugin de WordPress que extiende la funcionalidad estándar de W
 - **Modificación de Títulos**: Añade automáticamente "33" al final de cada título de publicación en el sitio.
 - **Interacción con la Base de Datos**: Crea una tabla personalizada `mi_tabla_personalizada` en la base de datos de WordPress y realiza operaciones básicas de inserción y selección.
 
+## Pruebas
+- Plugin no activado:
+
+
+- Plugin activado:
+  
+
+
+
 ## Requisitos
 
 - WordPress 5.0 o superior.
