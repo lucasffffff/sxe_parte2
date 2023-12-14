@@ -11,10 +11,12 @@ Mi Plugin es un plugin de WordPress que extiende la funcionalidad estándar de W
 
 ## Pruebas
 - Plugin no activado:
+- 
 ![Screenshot_20231214_111610](https://github.com/lucasffffff/sxe_parte2/assets/114582569/e2087ef6-a6b8-417f-ae70-550676b0a659)
 
 
 - Plugin activado:
+- 
   ![Screenshot_20231214_111840](https://github.com/lucasffffff/sxe_parte2/assets/114582569/d0b12992-c853-47c5-936d-81120b9ec04b)
 
 
